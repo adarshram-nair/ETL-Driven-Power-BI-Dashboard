@@ -64,4 +64,4 @@ The project is licensed under the MIT license - see the [LICENSE](https://github
 ## Contact Information
 Adarshram Nair  
 Email - nair.adarshram@gmail.com  
-LinkedIn Profile- [Linkedin.com/in/adarshram-nair](linkedin.com/in/adarshram-nair)
+LinkedIn Profile- [linkedin.com/in/adarshram-nair](https://www.linkedin.com/in/adarshram-nair/)
